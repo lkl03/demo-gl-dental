@@ -1,2 +1,7 @@
-# demo-gl-dental
-Demo web para GL Dental — diseñada por eterlab.
+# GL Dental
+
+Sitio web demo diseñado por [eterlab.](https://eterlab.co)
+
+## Editar
+
+Modificá `index.html` para personalizar el sitio.
